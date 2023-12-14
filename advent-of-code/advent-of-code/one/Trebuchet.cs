@@ -4,6 +4,8 @@ public class Trebuchet {
     private static readonly FileInput F = new ("./one/input.txt");
 
     public static void Run() {
+        Console.WriteLine("Advent of Code 2023 Day 1: Trebuchet");
+        
         string[] numberStrings = new [] {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
         Dictionary<string, char> numberLookup = new Dictionary<string, char>();
         numberLookup.Add("zero", '0');
