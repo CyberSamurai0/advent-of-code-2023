@@ -1,6 +1,6 @@
 namespace advent_of_code.one;
 
-public class Trebuchet {
+public static class Trebuchet {
     private static readonly FileInput F = new ("./one/input.txt");
 
     public static void Run() {

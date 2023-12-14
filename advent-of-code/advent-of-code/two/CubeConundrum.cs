@@ -1,6 +1,6 @@
 namespace advent_of_code.two; 
 
-public class CubeConundrum {
+public static class CubeConundrum {
 	private static readonly FileInput F = new ("./two/input.txt");
 
 	public static void Run() {
