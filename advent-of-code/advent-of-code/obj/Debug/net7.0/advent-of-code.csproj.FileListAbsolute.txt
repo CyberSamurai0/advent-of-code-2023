@@ -1,0 +1,15 @@
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\bin\Debug\net7.0\advent-of-code.exe
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\bin\Debug\net7.0\advent-of-code.deps.json
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\bin\Debug\net7.0\advent-of-code.runtimeconfig.json
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\bin\Debug\net7.0\advent-of-code.dll
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\bin\Debug\net7.0\advent-of-code.pdb
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.csproj.AssemblyReference.cache
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.AssemblyInfoInputs.cache
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.AssemblyInfo.cs
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.csproj.CoreCompileInputs.cache
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.dll
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\refint\advent-of-code.dll
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.pdb
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\advent-of-code.genruntimeconfig.cache
+C:\Users\colin\OneDrive\Documents\GitHub\Personal\advent-of-code-2023\advent-of-code\advent-of-code\obj\Debug\net7.0\ref\advent-of-code.dll
