@@ -1,3 +1,4 @@
-
-advent-of-code/advent-of-code/obj/advent-of-code.csproj.nuget.g.props
-advent-of-code/advent-of-code/obj/advent-of-code.csproj.nuget.dgspec.json
+/advent-of-code/advent-of-code/bin/
+/advent-of-code/advent-of-code/obj/
+advent-of-code/obj/advent-of-code.csproj.nuget.g.props
+advent-of-code/obj/advent-of-code.csproj.nuget.dgspec.json
