@@ -9,7 +9,6 @@ public class FileInput {
 
     public FileInput(string path) {
         this.Path = path;
-        File.OpenRead(this.Path);
         if (File.Exists(this.Path)) {
             
         } else {
