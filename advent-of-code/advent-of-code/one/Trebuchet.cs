@@ -6,19 +6,20 @@ public static class Trebuchet {
     public static void Run() {
         Console.WriteLine("Advent of Code 2023 Day 1: Trebuchet");
         
-        string[] numberStrings = new [] {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
-        Dictionary<string, char> numberLookup = new Dictionary<string, char>();
-        numberLookup.Add("zero", '0');
-        numberLookup.Add("one", '1');
-        numberLookup.Add("two", '2');
-        numberLookup.Add("three", '3');
-        numberLookup.Add("four", '4');
-        numberLookup.Add("five", '5');
-        numberLookup.Add("six", '6');
-        numberLookup.Add("seven", '7');
-        numberLookup.Add("eight", '8');
-        numberLookup.Add("nine", '9');
-        
+        string[] numberStrings = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
+        Dictionary<string, char> numberLookup = new() {
+            { "zero", '0' },
+            { "one", '1' },
+            { "two", '2' },
+            { "three", '3' },
+            { "four", '4' },
+            { "five", '5' },
+            { "six", '6' },
+            { "seven", '7' },
+            { "eight", '8' },
+            { "nine", '9' }
+        };
+
         var sum = 0;
         var sumWithStrings = 0;
         List<int> calibrators = new List<int>();
