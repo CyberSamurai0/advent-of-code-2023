@@ -1,7 +1,7 @@
 namespace advent_of_code.two; 
 
 public static class CubeConundrum {
-	private static readonly FileInput F = new ("./two/input.txt");
+	private static readonly FileInput F = new ("./inputs/three.txt");
 	private const int MaxRed = 12;
 	private const int MaxGreen = 13;
 	private const int MaxBlue = 14;

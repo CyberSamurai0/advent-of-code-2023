@@ -1,7 +1,7 @@
 namespace advent_of_code.one;
 
 public static class Trebuchet {
-    private static readonly FileInput F = new ("./one/input.txt");
+    private static readonly FileInput F = new ("./inputs/three.txt");
 
     public static void Run() {
         Console.WriteLine("Advent of Code 2023 Day 1: Trebuchet");
